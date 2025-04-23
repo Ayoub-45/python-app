@@ -6,6 +6,6 @@ def main():
     """
     print("Hello from a Dockerized Python app!")
     print("Current time is:", datetime.now())
-
+    print("Goodbye!")
 if __name__ == "__main__":
     main()
